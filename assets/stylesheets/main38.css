@@ -1,0 +1,18 @@
+#first{border: 3px solid yellow;
+				position: fixed;
+				top: 30px;
+				left: 360px;
+}
+/* when you scroll it moves with you  */
+#second{}
+#third{border: 3px solid green;
+				position: absolute;
+				top: 30px;
+				left: 60px;
+}
+#fourth{}
+#fifth{border: 3px solid #ec66cc;
+				position: relative;
+				top: 30px;
+				left: 60px;
+			}
